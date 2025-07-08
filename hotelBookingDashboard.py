@@ -187,5 +187,5 @@ st.markdown("""
 """)
 
 st.markdown("""
-Submitted by Sathvik Chava, Sumanjali Banjara, Sravani Enuganti.
+Submitted by Project Group 8 (Sathvik Chava, Sumanjali Banjara, Sravani Enuganti)
 """)
