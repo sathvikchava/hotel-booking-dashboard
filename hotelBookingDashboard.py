@@ -185,3 +185,7 @@ st.markdown("""
 - Consider rigid cancellations rules during weekends.
 - Prioritize bookings with longer durations as they can lead to higher income.
 """)
+
+st.markdown("""
+Submitted by Sathvik Chava, Sumanjali Banjara, Sravani Enuganti.
+""")
